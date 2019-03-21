@@ -10,3 +10,4 @@ Use decorator to implement some features on globalsign/mgo, like performance mon
    
    So we may provide these 2 implementations for develop and production environment.
 4. We will love a mgo mock for our unit test.
+   We can refer to https://godoc.org/database/sql/driver
